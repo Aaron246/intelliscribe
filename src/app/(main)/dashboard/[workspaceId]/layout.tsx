@@ -1,3 +1,6 @@
+import "@/styles/globals.css";
+import "@/styles/prosemirror.css";
+
 import MobileSidebar from '@/components/sidebar/mobile-sidebar';
 import Sidebar from '@/components/sidebar/sidebar';
 import React from 'react';
