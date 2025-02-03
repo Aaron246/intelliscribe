@@ -1,6 +1,6 @@
 {
-  "name": "webprodigies-cypress",
-  "version": "0.1.0",
+  "name": "intelliscribe",
+  "version": "0.3.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
